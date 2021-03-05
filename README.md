@@ -9,20 +9,25 @@ My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
 ## What I'm familiar with
 **Here's a list technology I'm familiar with:**
 
-### - Programming
+#### - Programming
 <img src="/asset/skills/programming/python.png" alt="Python" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/sql.png" alt="SQL" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/java.png" alt="Java" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/bash.png" alt="Bash Scripting" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/powershell.png" alt="PowerShell" height="50"/>
 
-### - Analytics
+#### - Analytics
 <img src="/asset/skills/analytics/excel-vba.png" alt="Excel/VBA" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/IBM-Cognos.jpeg" alt="IBM Cognos Analytics" border="1" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/power-bi.jpg" alt="Power BI" height="50"/>
 
-### - Web / Media
+#### - Web / Media
 <img src="/asset/skills/web-media/html.jpeg" alt="HTML" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/css.png" alt="CSS" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/photoshop.jpg" alt="Photoshop" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/vegas.jpeg" alt="Vegas Pro" height="50"/>
 
-### - 3D Modelling
+#### - 3D Modelling
 <img src="/asset/skills/3d-modelling/autocad.png" alt="AutoCAD" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/solidworks.png" alt="SolidWorks" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/inventor.jpg" alt="Inventor" height="50"/>
 
-### - Others
+#### - Others
 <img src="/asset/skills/other/android-studio.png" alt="Android Studio IDE" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/jupyter.png" alt="Jupyter Notebook" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/mysql.jpg" alt="MySQL" height="50"/>
+<br>
+<br>
+<br>
+## Certification
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4c130da8-be91-4929-b1dc-a997b602ebcf" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script> &nbsp;&nbsp;&nbsp;&nbsp; <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4c130da8-be91-4929-b1dc-a997b602ebcf" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script> &nbsp;&nbsp;&nbsp;&nbsp; <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4de95ca1-a2df-4f60-95ca-0caed8bd4baa" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 <br>
 <br>
 <br>
