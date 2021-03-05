@@ -27,13 +27,13 @@ My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
 <br>
 <br>
 ## Certification
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4c130da8-be91-4929-b1dc-a997b602ebcf" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="https://cdn.youracclaim.com/assets/utilities/embed.js"></script> &nbsp;&nbsp;&nbsp;&nbsp; <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4c130da8-be91-4929-b1dc-a997b602ebcf" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="https://cdn.youracclaim.com/assets/utilities/embed.js"></script> &nbsp;&nbsp;&nbsp;&nbsp; <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4de95ca1-a2df-4f60-95ca-0caed8bd4baa" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="https://cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<a href="https://www.youracclaim.com/badges/a3b67fa6-4940-4b0d-934c-57c8c1e6d6fd/public_url"><img src="https://images.youracclaim.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" alt="IBM Data Analyst Professional" height="200"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4c130da8-be91-4929-b1dc-a997b602ebcf/public_url"><img src="https://images.youracclaim.com/size/340x340/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="Google IT Automation Professional" height="200"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4de95ca1-a2df-4f60-95ca-0caed8bd4baa/public_url"><img src="https://images.youracclaim.com/size/340x340/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="Google IT Support Professional" height="200"/></a>
 <br>
 <br>
 <br>
 # 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/azkasf/"><img src="/asset/platform/linkedin.png" alt="LinkedIn" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:azkasyafaf@gmail.com"><img src="/asset/platform/mail.png" alt="Mail Me!" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/6282118798701"><img src="/asset/platform/whatsapp.png" alt="Whatsapp" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/azkasf/"><img src="/asset/platform/linkedin.png" alt="LinkedIn" height="50"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:azkasyafaf@gmail.com"><img src="/asset/platform/mail.png" alt="Mail Me!" height="50"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/6282118798701"><img src="/asset/platform/whatsapp.png" alt="Whatsapp" height="50"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <a href="https://azkasyafaf.github.io"><img src="/asset/platform/github-pages.png" alt="GitHub Pages" height="50"/>
 -->
 
