@@ -10,19 +10,19 @@ My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
 **Here's a list technology I'm familiar with:**
 
 ### Programming
-<img src="/asset/skills/python.png" alt="Python" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/sql.png" alt="SQL" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/java.png" alt="Java" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/bash.png" alt="Bash Scripting" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/powershell.png" alt="PowerShell" width="75"/>
+<img src="/asset/skills/programming/python.png" alt="Python" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/sql.png" alt="SQL" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/java.png" alt="Java" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/bash.png" alt="Bash Scripting" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/powershell.png" alt="PowerShell" height="75"/>
 
 ### Analytics
-<img src="/asset/skills/analytics/excel-vba.png" alt="Excel/VBA" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/IBM-Cognos.jpeg" alt="IBM Cognos Analytics" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/power-bi.jpg" alt="Power BI" width="75"/>
+<img src="/asset/skills/analytics/excel-vba.png" alt="Excel/VBA" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/IBM-Cognos.jpeg" alt="IBM Cognos Analytics" border="1" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/power-bi.jpg" alt="Power BI" height="75"/>
 
 ### Web / Media
-<img src="/asset/skills/python.png" alt="Python" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/sql.png" alt="SQL" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/java.png" alt="Java" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/java.png" alt="Java" width="75"/>
+<img src="/asset/skills/web-media/html.jpeg" alt="HTML" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/css.png" alt="CSS" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/photoshop.jpg" alt="Photoshop" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/vegas.jpeg" alt="Vegas Pro" height="75"/>
 
 ### 3D Modelling
-<img src="/asset/skills/3d-modelling/autocad.png" alt="AutoCAD" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/solidworks.png" alt="SolidWorks" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/inventor.jpg" alt="Inventor" width="75"/>
+<img src="/asset/skills/3d-modelling/autocad.png" alt="AutoCAD" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/solidworks.png" alt="SolidWorks" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/inventor.jpg" alt="Inventor" height="75"/>
 
 ### Others
-<img src="/asset/skills/other/android-studio.png" alt="Android Studio IDE" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/jupyter.png" alt="Jupyter Notebook" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/mysql.jpg" alt="MySQL" width="75"/>
+<img src="/asset/skills/other/android-studio.png" alt="Android Studio IDE" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/jupyter.png" alt="Jupyter Notebook" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/mysql.jpg" alt="MySQL" height="75"/>
 
 ## 📫 How to reach me:
 
