@@ -23,8 +23,10 @@ My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
 
 ### - Others
 <img src="/asset/skills/other/android-studio.png" alt="Android Studio IDE" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/jupyter.png" alt="Jupyter Notebook" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/mysql.jpg" alt="MySQL" height="75"/>
-
-## 📫 How to reach me:
+<br>
+<br>
+<br>
+# 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/azkasf/"><img src="/asset/platform/linkedin.png" alt="LinkedIn" height="30"/> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:azkasyafaf@gmail.com"><img src="/asset/platform/mail.png" alt="Mail Me!" height="30"/> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/6282118798701"><img src="/asset/platform/whatsapp.png" alt="Whatsapp" height="30"/> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://azkasyafaf.github.io"><img src="/asset/platform/github-pages.png" alt="GitHub Pages" height="30"/>
 
