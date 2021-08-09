@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
-- 🔭 I’m currently looking for a new job in software dev or data handling.
+- 🔭 I’m a trainee on IT field, so I need a lot to learn.
 - 🌱 I’m currently learning to keep all my skill on edge.
 - 👯 I’m hoping to collaborate on a challenging problems.
 
