@@ -32,7 +32,7 @@ My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
 
 # 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/azkasf/"><img src="/asset/platform/linkedin.png" alt="LinkedIn" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:azkasyafaf@gmail.com"><img src="/asset/platform/mail.png" alt="Mail Me!" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/6282118798701"><img src="/asset/platform/whatsapp.png" alt="Whatsapp" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/azkasf/"><img src="/asset/platform/linkedin.png" alt="LinkedIn" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:azkasyafaf@gmail.com"><img src="/asset/platform/mail.png" alt="Mail Me!" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <a href="https://azkasyafaf.github.io"><img src="/asset/platform/github-pages.png" alt="GitHub Pages" height="50"/>
 -->
 
