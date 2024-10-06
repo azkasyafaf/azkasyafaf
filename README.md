@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
-- 🔭 I’m a trainee on IT field, so I need a lot to learn.
+- 🔭 I'm currently familiar and used with Front-End works, but strive to be Full Stack Developer.
 - 🌱 I’m currently learning to keep all my skill on edge.
 - 👯 I’m hoping to collaborate on a challenging problems.
 
@@ -26,7 +26,7 @@ My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
 <br><br><br>
 
 ## Certification
-<a href="https://www.youracclaim.com/badges/a3b67fa6-4940-4b0d-934c-57c8c1e6d6fd/public_url"><img src="https://images.youracclaim.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" alt="IBM Data Analyst Professional" height="130"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4c130da8-be91-4929-b1dc-a997b602ebcf/public_url"><img src="https://images.youracclaim.com/size/340x340/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="Google IT Automation Professional" height="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4de95ca1-a2df-4f60-95ca-0caed8bd4baa/public_url"><img src="https://images.youracclaim.com/size/340x340/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="Google IT Support Professional" height="150"/></a>
+<a href="https://www.youracclaim.com/badges/a3b67fa6-4940-4b0d-934c-57c8c1e6d6fd/public_url"><img src="https://images.youracclaim.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" alt="IBM Data Analyst Professional" height="130"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4c130da8-be91-4929-b1dc-a997b602ebcf/public_url"><img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation Professional" height="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4de95ca1-a2df-4f60-95ca-0caed8bd4baa/public_url"><img src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Professional" height="150"/></a>
 
 <br><br><br><br>
 
