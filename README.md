@@ -1,49 +1,56 @@
-# Welcome to my GitHub page!
+# Hi there 👋 I'm Azka Syafa
 
-## Hi there 👋
-My name is Azka Syafa. I'm a tech enthusiast who love to challenge myself.
-- 🔭 I'm currently familiar and used with Front-End works, but strive to be Full Stack Developer.
-- 🌱 I’m currently learning to keep all my skill on edge.
-- 👯 I’m hoping to collaborate on a challenging problems.
+I'm a Software Engineer with over five years of professional experience building, modernizing, and maintaining enterprise web applications.
 
-<br><br>
+My primary expertise is Front-End Engineering, where I've worked extensively with Angular, React, Next.js, and TypeScript to deliver scalable applications, improve performance, and solve complex technical problems.
 
-## What I'm familiar with
-**Here's a list technology I'm familiar with:**
+Recently, I've also been expanding my knowledge in Data Analytics by combining my engineering background with analytical thinking and data-driven problem solving.
 
-#### - Programming
-<img src="/asset/skills/programming/python.png" alt="Python" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/sql.png" alt="SQL" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/java.png" alt="Java" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/bash.png" alt="Bash Scripting" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/programming/powershell.png" alt="PowerShell" height="50"/>
+## 💼 Tech Stack
 
-#### - Analytics
-<img src="/asset/skills/analytics/excel-vba.png" alt="Excel/VBA" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/IBM-Cognos.jpeg" alt="IBM Cognos Analytics" border="1" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/analytics/power-bi.jpg" alt="Power BI" height="50"/>
+### Frontend
+- Angular (8–17)
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- RxJS
+- HTML
+- CSS
 
-#### - Web / Media
-<img src="/asset/skills/web-media/html.jpeg" alt="HTML" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/css.png" alt="CSS" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/photoshop.jpg" alt="Photoshop" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/web-media/vegas.jpeg" alt="Vegas Pro" height="50"/>
+### Backend & APIs
+- REST APIs
+- GraphQL
 
-#### - 3D Modelling
-<img src="/asset/skills/3d-modelling/autocad.png" alt="AutoCAD" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/solidworks.png" alt="SolidWorks" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/3d-modelling/inventor.jpg" alt="Inventor" height="50"/>
+### Mobile
+- Flutter
 
-<br><br><br>
+### Data & Analytics
+- SQL (Basic)
+- Python (Intermediate)
+- Microsoft Excel
+- Power BI
 
-## Certification
-<a href="https://www.youracclaim.com/badges/a3b67fa6-4940-4b0d-934c-57c8c1e6d6fd/public_url"><img src="https://images.youracclaim.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" alt="IBM Data Analyst Professional" height="130"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4c130da8-be91-4929-b1dc-a997b602ebcf/public_url"><img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation Professional" height="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youracclaim.com/badges/4de95ca1-a2df-4f60-95ca-0caed8bd4baa/public_url"><img src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Professional" height="150"/></a>
+### Tools
+- Git
+- GitLab
+- Jenkins
+- Cypress
 
-<br><br><br><br>
+## 🚀 Highlights
 
-# 📫 How to reach me:
+- Migrated a production Angular application from Angular 8 to Angular 17 while maintaining production stability.
+- Improved frontend performance by reducing First Paint from approximately **4–5 seconds** to around **2 seconds**.
+- Built dashboards and data visualizations using React and Nivo.
+- Investigated production issues through root cause analysis and implemented reliable long-term solutions.
 
-<a href="https://www.linkedin.com/in/azkasf/"><img src="/asset/platform/linkedin.png" alt="LinkedIn" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:azkasyafaf@gmail.com"><img src="/asset/platform/mail.png" alt="Mail Me!" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://azkasyafaf.github.io"><img src="/asset/platform/github-pages.png" alt="GitHub Pages" height="50"/>
--->
+## 📜 Certifications
 
+- Google Data Analytics Professional Certificate (2020)
+- Google IT Automation with Python Professional Certificate (2020)
+- Google IT Support Professional Certificate (2020)
 
-<!--
-#### - Others
-<img src="/asset/skills/other/android-studio.png" alt="Android Studio IDE" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/jupyter.png" alt="Jupyter Notebook" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/asset/skills/other/mysql.jpg" alt="MySQL" height="50"/>
-**azkasyafaf/azkasyafaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+
+- 📧 Email: **azkasyafaf@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/azkasf
