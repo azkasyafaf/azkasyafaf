@@ -2,9 +2,9 @@
 
 I'm a Software Engineer with over five years of professional experience building, modernizing, and maintaining enterprise web applications.
 
-My primary expertise is Front-End Engineering, where I've worked extensively with Angular, React, Next.js, and TypeScript to deliver scalable applications, improve performance, and solve complex technical problems.
+My focus is Front-End Engineering, where I've worked extensively with Angular, React, Next.js, and TypeScript to deliver scalable applications, improve performance, and solve complex technical problems.
 
-Recently, I've also been expanding my knowledge in Data Analytics by combining my engineering background with analytical thinking and data-driven problem solving.
+Beyond software engineering, I'm also interested in Data Analytics and enjoy applying analytical thinking and data-driven problem solving to improve products and user experience.
 
 ## 💼 Tech Stack
 
@@ -37,7 +37,7 @@ Recently, I've also been expanding my knowledge in Data Analytics by combining m
 - Jenkins
 - Cypress
 
-## 🚀 Highlights
+## 🚀 Professional Highlights
 
 - Migrated a production Angular application from Angular 8 to Angular 17 while maintaining production stability.
 - Improved frontend performance by reducing First Paint from approximately **4–5 seconds** to around **2 seconds**.
